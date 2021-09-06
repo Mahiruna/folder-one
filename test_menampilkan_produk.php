@@ -11,7 +11,7 @@ require_once("header.php");
 <div class="container">
 		<div class="rows">    
 				<div class="col-sm-12">
-					<h2 class="tekstit"><center>List Produk</center></h2>
+					<h2 class="tekstit"><center>Daftar Produk</center></h2>
 					<hr>
 				</div>
 		</div>
